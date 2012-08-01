@@ -357,6 +357,7 @@ else {
 						<a href="#" id="ru">ru</a> 
 						<a href="#" id="sv">sv</a> 
 						<a href="#" id="uk">uk</a> 
+						<a href="#" id="da">da</a>
 					</span>
 					<div class="links">
 						<a href="https://project.crypto.cat">the Cryptocat Project</a>

@@ -22,7 +22,7 @@ A native iPhone, Blackberry and other versions are possible thanks to the [Guard
 * Easily invite your Facebook contacts to join your Cryptocat session.
 * Send private messages that can only be seen by a single recipient.
 * A sleek design with time-stamping, optional audio notifications, fluid-window mode, and mobile support.
-* Translations available for French, Catalan, Basque, Italian, German, Portuguese, Russian and Swedish.
+* Translations available for French, Catalan, Basque, Italian, German, Portuguese, Russian, Danish and Swedish.
 
 ## Architecture & Lifecycle
 Please review the [Cryptocat Architecture & Lifecycle Document](https://project.crypto.cat/documents/a&l.pdf) for information on how the development process is organized.
