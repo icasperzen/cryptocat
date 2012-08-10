@@ -148,12 +148,12 @@ $('#ru').click(function(){
 	lettersonly = "только буквы и цифры";
 });
 $('#da').click(function(){
-  $("#td1").html("Med <strong>Cryptocat</strong> kan du nemt og hurtigt oprette sikrede samtaler med andre. Det er et fælleskode krypteret alternativ til andre mindre-sikre chat services (blandt andet Facebook). ");
-  $("#td2").html("Beskeder er krypteret lokalt i din egen browser med AES-256 algoritmen. Krypterede samtaler slettes efter en times inaktivitet.");
+	$("#td1").html("Med <strong>Cryptocat</strong> kan du nemt og hurtigt have sikre samtaler med andre. Det er et krypteret og open source alternativ til andre mindre sikre chat services, fx Facebooks chat.");
+  $("#td2").html("Beskeder er krypteret lokalt i din egen browser med AES-256-algoritmen. Krypterede samtaler slettes efter en times inaktivitet.");
   $("#td3").html('<strong>Cryptocat</strong> kører også som en skjult service ved hjælp af <a target="_blank" href="https://torproject.org">Tor</a> (<a href="http://xdtfje3c46d2dnjd.onion">http://xdtfje3c46d2dnjd.onion</a>) og kan bruges fra din iPhone, Android eller BlackBerry.');
-  $("#notetext").html('Cryptocat giver effektiv kryptering, men erstatter ikke en stærk sikkerhedskultur alene. Overvej at installere <a href="https://chrome.google.com/webstore/detail/gonbigodpnfghidmnphnadhepmbabhij" target="_blank">Cryptocat app for Google Chrome</a> for ekstra sikkerhed, og tænk altid ansvarligt, hvis du befinder dig i en alvorlige situation.');
+  $("#notetext").html('Cryptocat giver effektiv kryptering, men erstatter ikke en stærk sikkerhedspolitik alene. Overvej at installere <a href="https://chrome.google.com/webstore/detail/gonbigodpnfghidmnphnadhepmbabhij" target="_blank">Cryptocat app for Google Chrome</a> for ekstra sikkerhed, og udvis ansvar, hvis du befinder dig i en alvorlig situation');
   $("#understand").val("jeg forstår");
-  $("#c").val("chat navn");
+  $("#c").val("chatnavn");
   $("#create").val("start");
   lettersonly = "du kan kun bruge bogstaver og tal";
 });
